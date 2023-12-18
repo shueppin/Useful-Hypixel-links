@@ -114,6 +114,7 @@ This is mostly focused on websites for Skyblock.
 
 ### Farming contests
 <a href='https://jacobs.creativesandbox.de/'>Jacob's Farming Events</a>  
+<a href='https://elitebot.dev/contests'>EliteWebsite Contests</a>  
 
 ### Other
 <a href='https://skymetatree.github.io/'>SkyBlock Meta Tree</a>  
